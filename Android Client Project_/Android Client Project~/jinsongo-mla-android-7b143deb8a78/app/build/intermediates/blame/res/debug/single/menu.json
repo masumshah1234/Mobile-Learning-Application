@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\masum\\Downloads\\Android Client Project~\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_edit.xml",
+        "source": "C:\\Users\\masum\\Downloads\\Android Client Project~\\jinsongo-mla-android-7b143deb8a78\\app\\src\\main\\res\\menu\\menu_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\masum\\Downloads\\Android Client Project~\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_update_password.xml",
+        "source": "C:\\Users\\masum\\Downloads\\Android Client Project~\\jinsongo-mla-android-7b143deb8a78\\app\\src\\main\\res\\menu\\menu_update_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\masum\\Downloads\\Android Client Project~\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_schedule_add.xml",
+        "source": "C:\\Users\\masum\\Downloads\\Android Client Project~\\jinsongo-mla-android-7b143deb8a78\\app\\src\\main\\res\\menu\\menu_schedule_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\masum\\Downloads\\Android Client Project~\\jinsongo-mla-android-7b143deb8a78\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_send.xml",
+        "source": "C:\\Users\\masum\\Downloads\\Android Client Project~\\jinsongo-mla-android-7b143deb8a78\\app\\src\\main\\res\\menu\\menu_send.xml"
+    }
+]

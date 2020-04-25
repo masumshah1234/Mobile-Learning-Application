@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.5.1_55580a3fff474f3068fd77bc22f03452a4ee2676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\78992fc802eb6ea9eef163c2bfe36fb4b82869a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_bc080d4ebbad1ad3bba5ef6021048669c6929a32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\97b2f7b60bbf001123520efd0ed963a572c9438e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_ac0a21936d3bf1a847660ad20eefa2882cdcf7e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\46864455567c86cf366611cc7ed67affcb331ae3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_ce371f927d105cb788b04c4b8b86b3c1b07337a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\c904eccc288a74948c1e337c096bd0fe0100f437\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_8ca9c1d7c3a815c7ff5ab1fe68d41ad7e79cbdfa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.5.0\713ce36037bf24a76a3974c05cb85c3f754b1cc3\retrofit-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="713ce36037bf24a76a3974c05cb85c3f754b1cc3">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\retrofit-2.5.0_28c217daea1f3ad273b61e97b90780627bc650d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\6cede744da6922149acbfa191392e0a906fc71c5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_fee67e07421de9fb02a46af8cc5f33f13924cab1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\1bdcfb77409a95549cee5c96063584d78305ce5a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_fa6bf34f1c7ae59eded1560c5c3c2bbad14d85a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.15.0\bc28b5a964c8f5721eb58ee3f3c47a9bcbf4f4d8\okio-1.15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc28b5a964c8f5721eb58ee3f3c47a9bcbf4f4d8">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\okio-1.15.0_8048e7a490233ae1efd6a56a91ebf793fb14ca3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\ae47f2b764b1a4fd500da321147e9d7448b5182c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_260eca8708d736028b1342b63b679cfff4d4a824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\55321e5553b083b5a0c3a74c47fe44e4c11dbb5c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="68247fbc2b2f79f599c90f99c899f7fb30ff1b17">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_04582e6e6c6d8451df4eea97a13d60fb1bd1c6d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\b7253df6ab009a5d955aa146ebec3246c0452a19\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5673281101aad13630046eeab1c172f83d675b07">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_04e3e0746a2aaf202c56cbd52de2fee91f88ae14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\76e4b6a4835b2d8d9ae6a79a3e1758fd3c1838fc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_214cece9aeb096799e0af6893c465698b1e10317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\4aff90ea8c1443e805a09855575d0e854d0cfd8e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_1db501568f2498cafc47fda65e243eda331e16d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\3a26e793df50702adacc683ed4d07faea7638bd9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_e6964fe5748c4847c3440526fb978317b6283281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\dcce007d32d8cb5495e322d3af89244902680849\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e84b30031d4bab89a2b5c45af4eb9213828524dd">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_aa4b2655572c4c7e00012bd389be4f462a8d12bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\925f4994517266cc5e30f9b71f5e8900c683fc55\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2d335cc337e32f5483347c848644d4bc4dab1b30">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_7aa658ec39d7f9f63aee10fc2c14cbcec27cfab0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\9ca26e606173cb25a8a41ca8e7fc81be562c38c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_640dcb371ef1fa34f5410a56a8fa55bb09e22f96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\0f72875d35d73cbceaa054aee8fbd324b2acc758\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1ce3029e5fff8c0c2e3af921eb850a4e8c45505">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_404bfe436c55c7ad1cb0a897fe6eabd591bcf08b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.5\f645ed69d595b24d4cf8b3fbb64cc505bede8829\gson-2.8.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f645ed69d595b24d4cf8b3fbb64cc505bede8829">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\gson-2.8.5_5f297a8af0464213da5db0bf4a57332a7eaaa3b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\b9a8f2351b0e76dc057da835b296d79adc7cfcd9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_87b67172d41d9fdbe2bf50cf6a8420299e8ca589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.12.0\b36f4a04584c0fb0d9af2d3401cdff8dacb1ea54\okhttp-3.12.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b36f4a04584c0fb0d9af2d3401cdff8dacb1ea54">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\okhttp-3.12.0_bb7036f872879a45980dd380996fac81781d46e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.android\build-cache\b75396eda7f7ccab352902d7ff14234842d6c2bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\classes_22c7ad97f8b4b6a7260fc64bb131f27fc3317cf0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\logging-interceptor-3.4.1_d77a4d4c98d630e3410b227b33c74f254ebace8e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.3\3aa131800b4a8452f793c3221854271025be9099\MPAndroidChart-v3.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3aa131800b4a8452f793c3221854271025be9099">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v3.0.3_be6caf447519f5fbcd4c7e4768fb0f80fc97c10d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.5.0\1c96fc5d0230f57d36cd09e2541d10829a3352a7\converter-gson-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c96fc5d0230f57d36cd09e2541d10829a3352a7">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\converter-gson-2.5.0_4f6a941a84248bdd0cd58bfb608e67955e770208.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\masum\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.3.0\dd84903d2e1af25a6081ef9038ad863cb14ca3a0\support-annotations-25.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\masum\Downloads\Android Client Project~\jinsongo-mla-android-7b143deb8a78\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.0_528907a27d631c4d7f14c140b6f603b69e5c8e89.jar" />
+    </item>
+
+</items>
